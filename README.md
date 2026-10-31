@@ -13,9 +13,9 @@
 • Extensive Settings With Changeable Units, Formats & Options<br>
 • Beautiful Scaleable UI<br><br>
 
-![Day](https://raw.githubusercontent.com/cdgco/home/master/img/day.png)<br><br>
-![Custom](https://raw.githubusercontent.com/cdgco/home/master/img/custom.png)<br><br>
-![Night](https://raw.githubusercontent.com/cdgco/home/master/img/night.png)
+![Day](https://raw.githubusercontent.com/cjroeser/home/master/img/day.png)<br><br>
+![Custom](https://raw.githubusercontent.com/cjroeser/home/master/img/custom.png)<br><br>
+![Night](https://raw.githubusercontent.com/cjroeser/home/master/img/night.png)
 
 ## Requirements
 • Web Server with PHP 5+<br>

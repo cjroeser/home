@@ -138,7 +138,7 @@ if (file_exists( 'includes/config.php' )) {header( 'Location: index.php' );}
             <h1>Config <span class="errorcode">Error</span></h1>
             <p class="output">The cdg home config file does not exist or has not been renamed.
                 <br> &nbsp;&nbsp;Please ensure that <span class="errorcode">/includes/config.php</span> exists and has been edited.</p>
-            <p class="output">Please correct config or visit the <a href="https://github.com/cdgco/home">Github Repository</a> for help</p>
+            <p class="output">Please correct config or visit the <a href="https://github.com/cjroeser/home">Github Repository</a> for help</p>
             <p class="output">Good luck</p>
         </div>
     </body>
